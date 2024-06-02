@@ -4,3 +4,5 @@
 
 ## 🌈 Come join us at mc.skysim.sbs (MINECRAFT SERVER)
 ## ✨ [Join the Discord Server](https://discord.skysim.sbs)!
+
+## 🎉 Fun Fact: Theres about 200K Lines of Code in SkySim! (Wow!)
